@@ -62,7 +62,7 @@ Na tela seguinte o assistente irá informar que o módulo JEE não está ativo. 
 
 Feito isso você poderá cancelar a criação do projeto.
 
-
+<!-- 
 ### 5º passo - Adicionar o JDK 8 no NetBeans
 
 Antes de mais nada precisamos acrescentar a JDK 8 no NetBeans. Para isso utilize [ESTE LINK](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html). Instalar normalmente.
@@ -70,9 +70,9 @@ Antes de mais nada precisamos acrescentar a JDK 8 no NetBeans. Para isso utilize
 
 No NetBeans clicar em "Tools" -> "Java Plataforms" e clicar no botão "Add Plataform".
 
-No assistente que abrir, manter selecionado "Java Standard Edition"m clicar em "Next" e procurar a instalação da JDK feita acima. Normalmente está em "Arquivos de programas\\Java". Selecionar a pasta "jdk1.8..." e clicar em "Next" até finalizar o processo.
+No assistente que abrir, manter selecionado "Java Standard Edition"m clicar em "Next" e procurar a instalação da JDK feita acima. Normalmente está em "Arquivos de programas\\Java". Selecionar a pasta "jdk1.8..." e clicar em "Next" até finalizar o processo. -->
 
-
+<!-- 
 ### 6º passo - Adicionar o Glassfish
 
 Feito isso, vamos baixar o Glassfish 5, [NESTE LINK](https://javaee.github.io/glassfish/download) - Baixar a versão "Web Profile". [LINK ALTERNATIVO](https://drive.google.com/drive/folders/1A6m2I43PgUcC5NloemJXM-TefbyYh6EL?usp=sharing)
@@ -87,10 +87,19 @@ No caminho de instalação selecionar a pasta "glasfish5" que você extraiu no a
 
 Manter as configurações de domínio (domain1) e clicar em "Finish". É provável que o seu Sistema Operacional peça permissão no Firewall para as portas. Clique em "Permitir".
 
-Para testar, clique com o botão direito no "Glassfish" e "Start". Se aparecer qual JDK deve ser usada, clicar na "1.8" (ela deve aparecer na lista); após uma pequena espera ele deve ficar com a indicação de executando (uma "setinha" verde).
+Para testar, clique com o botão direito no "Glassfish" e "Start". Se aparecer qual JDK deve ser usada, clicar na "1.8" (ela deve aparecer na lista); após uma pequena espera ele deve ficar com a indicação de executando (uma "setinha" verde). -->
 
+### 5º passo - Adicionar o TonCat ao NetBeans
 
+Baixar o TonCat EE 9 [DESTE LINK](https://tomcat.apache.org/download-90.cgi) (não baixar o "servive installer", apenas o pacote para seu sistema operacional).
 
+Extrair normalmente para um local seguro, sem espaços e/ou caracteres especiais. 
+
+Abrir o NetBeans 12, clicar em "Window" -> "Services" e no menu lateral (esquerda) que for exibido, clicar com o botão direito em "Servers" e "Add Server".
+
+No assistente que for exibido, selecionar o "TonCat" (primeira linha), clicar em "Next". No campo "Server Location", clicar no botão "Browse" e procurar a pasta onde você extraiu o arquivo anterior. Definir um usuário e uma senha que **você não irá esquecer**. Dica: root, root OU admin, admin. Apertar "Finish".
+
+Aguardar o NB realizar as configurações automáticas. Clicar com o botão direito no servidor adicionado (no mesmo menu lateral anterior), e selecionar "Start" Aguardar. Se aparecer uma "setinha" verde, ele está ok e pronto para ser utilizado.
 
 
 ## Ementa básica da disciplina
