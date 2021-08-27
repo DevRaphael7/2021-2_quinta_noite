@@ -28,6 +28,16 @@ public class Principal {
         Aluno a2 = new Aluno("Beltrano", "beltrano@bla.com", 17, 420);
         
         System.out.println("Nome do primeiro aluno: " + a1.getNome());
+        
+        Aluno a3 = new Aluno();
+        a3.setNome("Bruno");
+        a3.setIdade(23);
+        a3.setEmail("bruninho@timao.com");
+        Curso c = new Curso();
+        c.setNome("TADS");
+        c.setCh(3000);
+        a3.setCurso(c);
+        a3.setCurso(new Curso("SI", 6000));
 
     }
 }
