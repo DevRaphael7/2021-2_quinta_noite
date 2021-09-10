@@ -1,3 +1,4 @@
+<%@page import="br.uninove.Bhaskara"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
@@ -10,9 +11,9 @@
             String a, b, c;
             double delta;
 
-            a = request.getParameter("valorA");
-            b = request.getParameter("valorB");
-            c = request.getParameter("valorC");
+            a = request.getParameter("valorA"); //Sempre retorna uma String
+            b = request.getParameter("valorB"); //Sempre retorna uma String
+            c = request.getParameter("valorC"); //Sempre retorna uma String
         %>
         <jsp:useBean id="bhaskara" class="br.uninove.Bhaskara" scope="page" />
         <jsp:setProperty name="bhaskara" property="a" value="<%=a%>"/>
