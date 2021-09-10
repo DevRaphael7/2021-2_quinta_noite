@@ -23,7 +23,7 @@
         <p><strong>Peso informado: </strong><%=peso%>Kg</p>
         <p><strong>Altura informada: </strong><%=String.format("%.2f", imc.getAltura())%>m</p>
         <p><strong>IMC: </strong><%= String.format("%.2f", imc.calculaImc()) %></p>
-        <p><strong>Classificação: </strong><%=imc.getClassficacao()%></p>
+        <p><strong>Classificação: </strong><span style="color: <%=imc.getCor()%>;"><%=imc.getClassficacao()%><span></p>
         <br><br>
         <a href="index.html">Calcular novamente...</a>
     </body>
