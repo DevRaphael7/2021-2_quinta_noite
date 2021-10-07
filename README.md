@@ -4,20 +4,13 @@
 **Professor**: Thiago Graziani Traue (thiago.traue@uni9.pro.br)
 
 ***
-**O Prof. Thiago estará afastado entre os dias 27.09 e 01.09. Por favor, veja a atividades disponível abaixo**
 
 ## Link das atividades
 
 Para realizar as atividades utilizando Google Forms sempre entre com seu e-mail institucional. 
 
- - Atividade 1: [LINK DA ATIVIDADE](https://forms.gle/sojWF46muH8zagrX8) - De 30.09 até 07.10, 18h
+ - Atividade 1: [LINK DA ATIVIDADE](https://forms.gle/sojWF46muH8zagrX8) - De 30.09 até 03.12, 18h
 
-
-Após a realização da **Atividade 1**, leia os seguintes artigos:
-
- - [JEE, um caminho prazeroso e interessante](https://www.devmedia.com.br/jee-um-caminho-prazeroso-e-interessante/3747), DevMedia
- - [Ciclo de Vida de um JSP](https://materialpublic.imd.ufrn.br/curso/disciplina/3/46/5/4)
- - [Introdução à Servlets em Java](https://www.devmedia.com.br/introducao-a-servlets-em-java/25285)
 
 
 ## Preparação do ambiente
@@ -110,3 +103,10 @@ Média Final = (0,4 * Avaliação Integrada) + (0,6 * Nota do professor)
 Avaliação integrada é uma avaliação a ser marcada pela coordenação que ocorre durante uma de suas aulas e engloba, em uma única prova, todos os conceitos das disciplinas do módulo. Na prova integrada também podem ser cobrados conceitos de conhecimentos gerais.
 
 Este professor não utiliza faltas como critério de avaliação.
+
+
+## Links interessantes:
+
+ - [JEE, um caminho prazeroso e interessante](https://www.devmedia.com.br/jee-um-caminho-prazeroso-e-interessante/3747), DevMedia
+ - [Ciclo de Vida de um JSP](https://materialpublic.imd.ufrn.br/curso/disciplina/3/46/5/4)
+ - [Introdução à Servlets em Java](https://www.devmedia.com.br/introducao-a-servlets-em-java/25285)
