@@ -10,10 +10,12 @@
         <hr>
         <br>
         <br>
-        <form method="post" action="">
+        <form method="post" action="gera_sessao.jsp">
             Informe seu nome: <input type="text" name="nome"><br><br>
             Informe seu sobrenome: <input type="text" name="sobrenome"><br><br>
             <input type="submit" value="Colocar dados na Sessão">
         </form>
+        <br>
+        <a href="./">Voltar para a página inicia</a>
     </body>
 </html>
