@@ -110,3 +110,11 @@ Este professor não utiliza faltas como critério de avaliação.
  - [JEE, um caminho prazeroso e interessante](https://www.devmedia.com.br/jee-um-caminho-prazeroso-e-interessante/3747), DevMedia
  - [Ciclo de Vida de um JSP](https://materialpublic.imd.ufrn.br/curso/disciplina/3/46/5/4)
  - [Introdução à Servlets em Java](https://www.devmedia.com.br/introducao-a-servlets-em-java/25285)
+ - [HackerRank](https://www.hackerrank.com/) - Site para estudar desafios de programação
+ - [Nextlevelweek](https://nextlevelweek.com/inscricao/7) - Evento de programação
+
+
+
+ ## Repositórios interessantes
+
+ - [App Ideas](https://github.com/florinpop17/app-ideas) - Repositório para ideias para treinar programação
