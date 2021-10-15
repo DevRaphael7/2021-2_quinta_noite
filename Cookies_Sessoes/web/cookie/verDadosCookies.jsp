@@ -38,5 +38,8 @@
         <% } else { %>
             <h2>Cookies não encontradas! :(</h2>
         <% }%>
+        <br>
+        <br>
+        <a href="./">Voltar para a página inicial do proejto de Cookies</a>
     </body>
 </html>
