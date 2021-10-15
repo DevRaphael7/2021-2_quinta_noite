@@ -26,8 +26,9 @@
             cookieNome.setVersion(0);
             cookieSobrenome.setVersion(0);
 
-            cookieNome.setMaxAge(180); //tempo em segundos
-            cookieSobrenome.setMaxAge(180);
+            //se você quiser que o cookies não seja apgado "nunca", comente essas linhas:
+            //cookieNome.setMaxAge(180); //tempo em segundos
+            //cookieSobrenome.setMaxAge(180);
 
             response.addCookie(cookieNome);
             response.addCookie(cookieSobrenome);
