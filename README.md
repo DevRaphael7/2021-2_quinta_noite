@@ -12,7 +12,8 @@ Para realizar as atividades utilizando Google Forms sempre entre com seu e-mail 
  - Atividade 1: [LINK DA ATIVIDADE](https://forms.gle/sojWF46muH8zagrX8) - De 30.09 até 02.12, 18h
  - Atividade 2: [LINK DA ATIVIDADE](https://forms.gle/eJEnwTBzoehPdi9W8) - De 14.10 até 02.12, 18h
  - Atividade 3: [LINK DA ATIVIDADE](https://forms.gle/rQ32H5ejUWVBENsTA) - De 21.10 até 02.12, 18h
-
+ - Atividade 4: [LINK DA ATIVIDADE](https://forms.gle/rSvuxQ9qhJc5yDog7) - De 04.11 até 02.12, 18h
+ 
 
 ## Preparação do ambiente
 
